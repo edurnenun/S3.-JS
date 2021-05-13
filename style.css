@@ -1,0 +1,21 @@
+#calcult {
+    background-color: blue;
+}
+
+#valor1 {
+    background-color: aqua;
+    padding: 1%;
+    height: 100px;
+    font-size: large;
+}
+
+#valor2 {
+    background-color: aqua;
+    padding: 1%;
+    height: 100px;
+    font-size: large;
+}
+
+.button {
+    font-size: large;
+}
